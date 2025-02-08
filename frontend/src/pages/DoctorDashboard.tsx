@@ -6,7 +6,7 @@ import type { Patient } from '../types';
 const mockPatients: Patient[] = [
   {
     id: '1',
-    name: 'Thapar Student',
+    name: 'Thapar ',
     age: 45,
     gender: 'Male',
     condition: 'Hypertension',
